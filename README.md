@@ -7,10 +7,10 @@ I'm deeply engaged in CCNA-level networking concepts and practical labs. I enjoy
 
 ### Technical Skills
 - **Networking**: CCNA topics (Routing & Switching), VLANs, Inter-VLAN Routing, OSPF, NAT, ACLs, DHCP, PoE concepts
-- **Security Fundamentals**: Wireshark (traffic analysis), basic network security concepts
+- **Security**: Network security fundamentals and traffic analysis
 - **Operating Systems**: Linux, Windows
 - **Programming**: Python, C++
-- **Tools**: Cisco Packet Tracer, Wireshark
+- **Tools**: Cisco Packet Tracer
 
 ### Projects
 I have completed a series of practical Packet Tracer labs covering core CCNA topics up to PoE. These include various topologies and configurations that demonstrate hands-on understanding of networking concepts.  
@@ -18,7 +18,7 @@ More detailed labs will be uploaded soon.
 
 ### Currently Focused On
 - Strengthening CCNA knowledge through practical labs
-- Network traffic analysis with Wireshark
+- Network security fundamentals and traffic analysis
 - Applying programming (Python) to networking scenarios
 
 ---
