@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Amir 👋
 
-<!--
-**AmirNET-cpu/AmirNET-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at the University of Tabriz (Software Engineering track), focused on **Networking** and **Network Security fundamentals**.
 
-Here are some ideas to get you started:
+### About Me
+I'm deeply engaged in CCNA-level networking concepts and practical labs. I enjoy working with network protocols, traffic analysis, and building hands-on topologies in Cisco Packet Tracer. Currently strengthening my foundation in routing, switching, and security basics while exploring how programming can support networking tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Networking**: CCNA topics (Routing & Switching), VLANs, Inter-VLAN Routing, OSPF, NAT, ACLs, DHCP, PoE concepts
+- **Security Fundamentals**: Wireshark (traffic analysis), basic network security concepts
+- **Operating Systems**: Linux, Windows
+- **Programming**: Python, C++
+- **Tools**: Cisco Packet Tracer, Wireshark
+
+### Projects
+I have completed a series of practical Packet Tracer labs covering core CCNA topics up to PoE. These include various topologies and configurations that demonstrate hands-on understanding of networking concepts.  
+More detailed labs will be uploaded soon.
+
+### Currently Focused On
+- Strengthening CCNA knowledge through practical labs
+- Network traffic analysis with Wireshark
+- Applying programming (Python) to networking scenarios
+
+---
+📍 Shahrekord, Iran  
+🎓 University of Tabriz – Computer Engineering (Software)
